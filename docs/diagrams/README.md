@@ -22,3 +22,9 @@ direct link : https://excalidraw.com/#json=FVYn9Bp_5L1f-avVttgxh,3UFY0mZ0b38y0Hj
 
 ![part2-activity](/docs/diagrams/Activity%20Diagram.png)
 ![part2-sequence](/docs/diagrams/Sequence%20Diagram.png)
+
+---
+
+## EER 
+direct link : https://excalidraw.com/#json=NeHheG7iih7sM0ku7Zxkm,BIh8L6b7__MuvS6rZHa_yw
+![EER](/docs/diagrams/EER.png)
